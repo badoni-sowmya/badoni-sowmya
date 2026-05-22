@@ -72,7 +72,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--             🧪 MY MAGICAL INVENTORY (TECH STACK)              -->
+<!--              MY MAGICAL INVENTORY (TECH STACK)              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B5EAD7,100:C9B8FF&height=4" width="100%"/>
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-## 🧪 `My Magical Inventory (Tech Stack)`
+##  `My Magical Inventory (Tech Stack)`
 
 <br/>
 
@@ -128,7 +128,7 @@
 
 <br/>
 
-**🧰 &nbsp;Tools & Artefacts**
+** &nbsp;Tools & Artefacts**
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,figma,postman,linux,jupyter&theme=light)](https://skillicons.dev)
 
@@ -162,66 +162,7 @@
 
 <div align="center">
 
-### 🩺 &nbsp;ANEMI AI
-**AI-powered Anemia Diagnostic Assistant**
 
-[![anemi-ai](https://img.shields.io/badge/🔬_Healthcare_·_AI_Diagnostics-C9B8FF?style=for-the-badge&labelColor=4A3560&color=9B7FD4)](https://github.com/badoni-sowmya/anemi-ai)
-
-</div>
-
-> An intelligent clinical assistant that analyzes CBC blood reports to detect anemia patterns, generate diagnostic insights, and provide LLM-powered recommendations — making quality healthcare analysis accessible and fast.
-
-**✨ What makes it magical:**
-- 🔬 Deep analysis of CBC parameters for multi-type anemia detection
-- 🤖 LLM-driven clinical narrative generation via LangChain
-- 📊 Confidence-scored diagnostic outputs with severity grading
-- 🌐 Clean patient-facing interface with report upload & instant insights
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-<br/>
-
-[![View Source](https://img.shields.io/badge/⚔️_Source_Code-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badoni-sowmya/anemi-ai)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ─── PROJECT 2: REDACTLESS ─── -->
-
-<table align="center" width="90%">
-<tr>
-<td>
-
-<div align="center">
-
-### 🔒 &nbsp;RedactLess
-**Intelligent Privacy-Preserving Document Redaction**
-
-[![redactless](https://img.shields.io/badge/🛡️_Privacy_Tech_·_NLP-B5EAD7?style=for-the-badge&labelColor=2D6A4F&color=52B788)](https://github.com/badoni-sowmya/redactless)
-
-</div>
-
-> A smart document redaction engine powered by NLP that intelligently detects and masks sensitive PII/PHI data from documents — preserving readability and context while ensuring privacy compliance at scale.
-
-**✨ What makes it magical:**
-- 📄 Context-aware NER for PII/PHI detection across document types
-- ✂️ Surgical redaction that preserves document meaning and flow
-- 🔐 Enterprise-grade privacy compliance (GDPR / HIPAA aligned)
-- ⚡ Batch processing pipeline for high-volume document handling
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square)
