@@ -144,58 +144,13 @@
 
 <br/>
 
-<div align="center">
 
-## 🗺️ `Featured Quests (Projects)`
-
-*Two quests forged in hackathons, refined with care* 🌸
-
-</div>
-
-<br/>
-
-<!-- ─── PROJECT 1: ANEMI AI ─── -->
-
-<table align="center" width="90%">
-<tr>
-<td>
-
-<div align="center">
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<br/>
-
-[![View Source](https://img.shields.io/badge/⚔️_Source_Code-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badoni-sowmya/redactless)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-[![All Repos](https://img.shields.io/badge/🌸_Explore_All_Projects-9B7FD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badoni-sowmya?tab=repositories)
-
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--               📊 THE TOME OF STATS                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8D8EA,100:F7CAC9&height=4" width="100%"/>
+
 
 <br/>
 
