@@ -51,32 +51,7 @@
 <tr>
 <td width="56%" valign="top">
 
-```yaml
-# sowmya.config.yml ✨
 
-name:     "Sowmya Badoni"
-role:     "AI-FSE · Data Scientist · ML Engineer"
-location: "🇮🇳 India"
-status:   "🔭 Exploring the frontiers of AI"
-
-identity:
-  - 🤖  Artificial Intelligence & Agentic Systems
-  - 📊  Data Science & Statistical Modelling
-  - 🧠  Machine Learning & Deep Learning
-  - ☁️  Cloud-native AI Applications
-  - 🔬  Intelligent Systems Design
-  - 🌐  Full Stack AI Development
-
-currently_learning:
-  - "Multi-agent LLM orchestration"
-  - "MLOps & production model serving"
-  - "Responsible & Explainable AI"
-
-fun_fact: >
-  I believe every dataset
-  has a story — I just help
-  it speak. 🌸
-```
 
 </td>
 <td width="44%" align="center" valign="top">
