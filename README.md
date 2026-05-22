@@ -45,29 +45,13 @@
 
 </div>
 
-<br/>
-
-<table align="center" width="92%">
-<tr>
-<td width="56%" valign="top">
-
-
-
-</td>
-<td width="44%" align="center" valign="top">
-
-<br/>
-
 <!-- Ghibli-coded: a gentle floating AI gif — replace with your own if you like -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="AI Magic" style="border-radius:18px"/>
-
-<br/><br/>
-
+<br/>
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="AI Magic" style="border-radius:18px"/> <br>
 <img src="https://img.shields.io/badge/AI_•_Data_Science_•_ML-Building%20the%20future%20one%20model%20at%20a%20time-9B7FD4?style=flat-square&labelColor=E8D5FF" alt="tagline"/>
+</div>
 
-</td>
-</tr>
-</table>
 
 <br/>
 
